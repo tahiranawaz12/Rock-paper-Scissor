@@ -19,14 +19,12 @@ h1{
     align-items: center;
     
 }
-.choice:hover{
+ .choice:hover{
     
     cursor: pointer;
     background-color:#081019 ;
 
-}
-
-
+} 
 
 img{
     height: 150px;
